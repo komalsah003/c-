@@ -6,3 +6,4 @@ Input is: integer n(year) (1000 ≤ n ≤ 9000)
 
 Output
 The minimum year number that is strictly larger than y and all it's digits are distinct. 
+jkkty
